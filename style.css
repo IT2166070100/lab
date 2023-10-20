@@ -3,23 +3,30 @@
     color: red;
     font-weight: 100;
 }
-.redText {
-    color: red;
+.Textcolor {
     font-weight: 100;
 }
 #first {
     display: inline-block;
 }
 #third{
-    font-size: 32px;
+    font-size: 16px;
 }
 
 .big{
-    font-size: 100px;
+    font-size: 32px;
 }
 .container{
+    background-color: lightcyan;
     display: inline-block;
-    width: 1000px;
     border: 2px black solid;
-    padding:  50px 20px;
+    padding:  5px 10px;
+    margin: 8px;
+    width: 1000px;
+}
+#subheading{
+    display: inline-block;
+    padding: 0px 5px;
+    border: 2px black solid;
+    background-color: silver;
 }
