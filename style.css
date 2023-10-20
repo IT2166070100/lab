@@ -19,7 +19,7 @@
 }
 .container{
     display: inline-block;
-    width: 100px;
+    width: 1000px;
     border: 2px black solid;
     padding:  50px 20px;
 }
